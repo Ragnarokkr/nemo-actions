@@ -1,0 +1,13 @@
+[Nemo Action]
+
+# Create a folders structure for photo storing and processing
+
+Name=Initialize with template folders for photo
+Name[it_IT]=Inizializza con cartelle modello per le foto
+Comment=Initialize %P with template folders structure
+Comment[it_IT]=Inizializza %P con una struttura di cartelle modello
+Exec=<MTNA-Folders-TemplateCreator.js -t %P 1.stash 2.src 3.fix 4.proc 5.await 6.pub>
+Dependencies=node;
+Icon-Name=folder
+Selection=none
+Extensions=none;

@@ -1,0 +1,10 @@
+[Nemo Action]
+Name=Initialize with template folders
+Name[it_IT]=Inizializza con cartelle modello
+Comment=Initialize %P with template folders structure
+Comment[it_IT]=Inizializza %P con una struttura di cartelle modello
+Exec=<MTNA-Folders-TemplateCreator.js -t %P folder1 folder2 folder3>
+Dependencies=node;
+Icon-Name=folder
+Selection=none
+Extensions=none;

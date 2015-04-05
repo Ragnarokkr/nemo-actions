@@ -1,0 +1,36 @@
+{
+  "name": "nemo-actions",
+  "version": "0.1.0",
+  "description": "Cinnamon's Nemo File Manager Actions",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.4.0",
+    "yargs": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ragnarokkr/nemo-actions.git"
+  },
+  "keywords": [
+    "shell",
+    "nemo",
+    "file",
+    "manager",
+    "actions",
+    "gnome"
+  ],
+  "author": "Marco Trulla <dev@marcotrulla.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ragnarokkr/nemo-actions/issues"
+  },
+  "homepage": "https://github.com/Ragnarokkr/nemo-actions",
+  "os": [
+    "linux"
+  ],
+  "private": true
+}

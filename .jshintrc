@@ -1,0 +1,18 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "es5": true,
+    "forin": true,
+    "freeze": true,
+    "futurehostile": true,
+    "globalstrict": true,
+    "latedef": true,
+    "nocomma": true,
+    "nonbsp": true,
+    "nonew": true,
+    "singleGroups": true,
+    "undef": true,
+    "unused": true,
+    "strict": true,
+    "node": true
+}
